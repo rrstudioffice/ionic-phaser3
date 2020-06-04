@@ -1,0 +1,7 @@
+{
+  "name": "phaser-tutorial",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
